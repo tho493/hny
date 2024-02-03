@@ -1,0 +1,1 @@
+.container__firework{height:100%;display:flex;justify-content:center;align-items:center;opacity:.5}.stage-container__firework{overflow:hidden;box-sizing:initial}.canvas-container__firework{width:100%;height:100%;transition:filter .3s}.canvas-container__firework canvas{position:absolute;mix-blend-mode:lighten;transform:translateZ(0)}
