@@ -3,18 +3,13 @@
   "version": "1.0.0",
   "description": "A packaged",
   "scripts": {
-    "start": "node index.js",
-    "vercel-build": "node ./index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "18.x"
   },
   "dependencies": {
-    "otplib": "",
     "express": "^4.18.1",
-    "path": "^0.12.7",
-    "fetch": "",
-    "cheerio": "",
-    "ejs": ""
+    "path": "^0.12.7"
   }
 }
